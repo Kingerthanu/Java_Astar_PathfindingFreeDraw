@@ -32,6 +32,8 @@
   
   When the user clicks ender, a A* algorithmn will traverse the given 2D matrix representation of this labrinthe in order to get to the exit. The quickest path will be traced in a purple line connecting the two points and the console will print out the step order to arrive there.
 
+  Also Seperately On The Main Thread We Have A Random Gradient Going On With THe Drawn Wall Nodes Just As Visual Stimulation. It Was Fun Implementing For Me And Taught Me Some Things About State Changes.
+
 <img src="https://github.com/Kingerthanu/Java_Astar_PathfindingFreeDraw/assets/76754592/da0b65f3-1131-4ab0-9f54-76625658191a" alt="Cornstarch <3" width="65" height="49"><img src="https://github.com/Kingerthanu/Java_Astar_PathfindingFreeDraw/assets/76754592/da0b65f3-1131-4ab0-9f54-76625658191a" alt="Cornstarch <3" width="65" height="49"><img src="https://github.com/Kingerthanu/Java_Astar_PathfindingFreeDraw/assets/76754592/da0b65f3-1131-4ab0-9f54-76625658191a" alt="Cornstarch <3" width="65" height="49"><img src="https://github.com/Kingerthanu/Java_Astar_PathfindingFreeDraw/assets/76754592/da0b65f3-1131-4ab0-9f54-76625658191a" alt="Cornstarch <3" width="65" height="49">
 
 ----------------------------------------------
