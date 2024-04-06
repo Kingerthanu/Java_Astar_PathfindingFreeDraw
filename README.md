@@ -21,13 +21,13 @@
 
   The User Can Specify The Layout Of The Labrinth By Using Their Cursor As Controls Consists Of:
 
- &nbsp;Left-Click + No Drag: Initilize The Starting Block.
+ &nbsp; Left-Click + No Drag: Initilize The Starting Block.
 
- &nbsp;Left-Click + Yes Drag: Initialize A Wall Block On All Blocks Dragged Over
+ &nbsp; Left-Click + Yes Drag: Initialize A Wall Block On All Blocks Dragged Over
 
- &nbsp;Right-Click: Initilize The Ending Block.
+ &nbsp; Right-Click: Initilize The Ending Block.
 
- &nbsp;Enter: Commit A A* Traversal From Starting -> Ending Block.
+ &nbsp; Enter: Commit A A* Traversal From Starting -> Ending Block.
 
   
   When the user clicks ender, a A* algorithmn will traverse the given 2D matrix representation of this labrinthe in order to get to the exit. The quickest path will be traced in a purple line connecting the two points and the console will print out the step order to arrive there.
