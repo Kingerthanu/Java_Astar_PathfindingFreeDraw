@@ -4,6 +4,17 @@
 
   When the user clicks ender, a A* algorithmn will traverse the given 2D matrix representation of this labrinthe in order to get to the exit. The quickest path will be traced in a purple line connecting the two points and the console will print out the step order to arrive there.
 
+
+----------------------------------------------
+<img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49">
+
+**The Breakdown:**
+
+
+----------------------------------------------
+
+**Features:**
+
 ![2024-01-1000-01-52-ezgif com-optimize](https://github.com/Kingerthanu/java_A-_PathfindingFreeDraw/assets/76754592/5325dbe4-5efc-4c77-87f2-71d30aa32d31)
 ![PathSS1](https://github.com/Kingerthanu/java_A-_PathfindingFreeDraw/assets/76754592/086c503c-230d-4767-9a4a-ea74700e8fa1)
 <img width="600" alt="image" src="https://github.com/Kingerthanu/java_A-_PathfindingFreeDraw/assets/76754592/503840ca-6656-4df9-84f1-01342cc31e99">
