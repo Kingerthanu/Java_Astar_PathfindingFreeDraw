@@ -21,11 +21,11 @@
 
   The User Can Specify The Layout Of The Labrinth By Using Their Cursor As Controls Consists Of:
 
- &nbsp; Left-Click + No Drag: Initilize The Starting Block.
+ &nbsp;  Left-Click + No Drag: Initilize The Starting Block.
 
- &nbsp; Left-Click + Yes Drag: Initialize A Wall Block On All Blocks Dragged Over
+ &nbsp;  Left-Click + Yes Drag: Initialize A Wall Block On All Blocks Dragged Over
 
- &nbsp; Right-Click: Initilize The Ending Block.
+ &nbsp;  Right-Click: Initilize The Ending Block.
 
  &nbsp; Enter: Commit A A* Traversal From Starting -> Ending Block.
 
