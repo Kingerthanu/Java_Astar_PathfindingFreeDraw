@@ -13,9 +13,9 @@
 
   This Java Project Was Made With JavaFX For The Window.
 
-  The Screen Is Divided Into A Equally-Sided 2d-Array Of Blocks In Which Will Represent Our Labrinths Playspace. 
+  The Screen Is Divided Into A Equally-Sided 2D-Array Of Blocks In Which Will Represent Our Labrinths Playspace. 
 
-  A Block Is A Defined ClassType In Which Contains Its xy-Coordinates As Well As Its Type ID. It Also Encapsulates Its Behaivor When Detecting Differing Types Of Clicks On Itself By The Users Cursor (I.E. Changing Its Block TypeID From Wall -> Start, etc..
+  A Block Is A Defined ClassType In Which Contains Its xy-Coordinates As Well As Its Type ID. It Also Encapsulates Its Behaivor When Detecting Differing Types Of Clicks On Itself By The Users Cursor (I.E. Changing Its Block TypeID From Wall -> Start, etc.).
   
   The Program Works Mainly Upon The Users Cursor. And Wishes To Use An A* Algorithm To Pathfind Throughout A User-Defined Labrinth; Showing The Resulting Path On The Screen.
 
