@@ -1,6 +1,6 @@
 # Java_A*_PathfindingFreeDraw
 
-  A Java project created in 2022 where in a javafx GUI a user is able to use their cursor to draw walls. The walls cycle through the color spectrum and are used in creating a labrinthe in order for a given entry point to go to a given end point in the labrinthe. The user can use a single left-click in order to place the starting point and right click to add the end point. 
+  A Java project created in 2021 where in a javafx GUI a user is able to use their cursor to draw walls. The walls cycle through the color spectrum and are used in creating a labrinthe in order for a given entry point to go to a given end point in the labrinthe. The user can use a single left-click in order to place the starting point and right click to add the end point. 
 
 <img src="https://github.com/Kingerthanu/Java_Astar_PathfindingFreeDraw/assets/76754592/702d84e4-cacc-4a42-939d-4c26bd716ff5" alt="Cornstarch <3" width="85" height="89">
 
